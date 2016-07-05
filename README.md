@@ -42,7 +42,7 @@ python yowsup/yowsup/setup.py install
 ```
 Clonar Repositorio
 ```
-git clone https://github.com/yasserisa/Whatsapp-BOT
+git clone https://github.com/mohammadmahdi001/whatsapp-bot-mmf
 ```
 Setear el archivo config.py basado en el config.py.template
 
